@@ -8,7 +8,8 @@ My favourite packages are [flutter_bloc](https://pub.dev/packages/flutter_bloc),
 
 Previously my job position was [Android](https://www.android.com) Developer at [Harman Connected Services](https://www.harman.com) for over 3 years and studied Computer Science at the [Technical University of Lodz](https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_University_of_Technology).
 
-Moreover, I built custom [AOSP](https://source.android.com) images for Google Pixels devices and I'm a registered publisher on the [pub.dev](https://pub.dev/publishers/rozpo.dev/packages).
+Moreover, I'm package maintainer on [pub.dev](https://pub.dev/publishers/rozpo.dev/packages) and have hands-on experience with the [AOSP](https://source.android.com) building
+system for Google Pixel devices.
 
 ## Latest Activity
 
