@@ -8,7 +8,7 @@ My favourite packages are [flutter_bloc](https://pub.dev/packages/flutter_bloc),
 
 Previously my job position was [Android](https://www.android.com) Developer at [Harman Connected Services](https://www.harman.com) for over 3 years and studied Computer Science at the [Technical University of Lodz](https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_University_of_Technology).
 
-Moreover, I'm package maintainer on [pub.dev](https://pub.dev/publishers/rozpo.dev/packages) and have hands-on experience with the [AOSP](https://source.android.com) building
+Moreover, I'm packages maintainer on [pub.dev](https://pub.dev/publishers/rozpo.dev/packages) and have hands-on experience with the [AOSP](https://source.android.com) building
 system for Google Pixel devices.
 
 ## Latest Activity
@@ -18,6 +18,12 @@ system for Google Pixel devices.
 > [Retip](https://www.retip.rozpo.dev/) - Android music player (flutter).
 
 > [Spacescape](https://github.com/ufrshubham/spacescape) - 2D top-down space shooter (flutter & flame).
+
+## Packages
+
+> [wallhaven_api](https://pub.dev/packages/wallhaven_api) - Wallhaven API wrapper for the Dart programming language.
+
+> [platform_text](https://pub.dev/packages/platform_text) - A Flutter package to make your text selectable for web and non-selectable for native builds.
 
 ## My Stack
 
